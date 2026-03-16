@@ -1,11 +1,24 @@
+aid: iam
 name: IAM
-description: IAM is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  Identity and Access Management (IAM) is a framework of policies and
+  technologies that ensures the right users have appropriate access to
+  technology resources. IAM encompasses authentication, authorization,
+  and the management of digital identities across systems.
+url: https://raw.githubusercontent.com/api-evangelist/iam/refs/heads/main/apis.yml
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- IAM
+  - IAM
+  - Identity
+  - Access Management
+  - Security
+  - Authentication
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
