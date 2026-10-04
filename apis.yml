@@ -1,5 +1,6 @@
 aid: iam
 name: IAM
+kind: topic
 description: >-
   Identity and Access Management (IAM) is a framework of policies and
   technologies that ensures the right users have appropriate access to
