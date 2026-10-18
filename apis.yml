@@ -33,10 +33,9 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/iam.png
 tags:
-  - Access Management
+  - Identity and Access Management
   - Authentication
   - Authorization
-  - Identity and Access Management
   - Identity
   - Security
 tags_raw:
